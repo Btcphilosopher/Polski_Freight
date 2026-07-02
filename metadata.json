@@ -1,0 +1,6 @@
+{
+  "name": "Polski Freight OS",
+  "description": "Intelligent Freight & Logistics Platform for Poland & EU",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
